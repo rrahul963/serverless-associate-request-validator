@@ -1,0 +1,28 @@
+{
+  "name": "serverless-associate-request-validator",
+  "version": "1.0.0",
+  "description": "serverless plugin to associate custom request validator with the rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrahul963/serverless-associate-request-validator.git"
+  },
+  "keywords": [
+    "serverless",
+    "validator",
+    "request",
+    "api",
+    "gateway",
+    "rest",
+    "api"
+  ],
+  "author": "rahul.tulsian87@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrahul963/serverless-associate-request-validator/issues"
+  },
+  "homepage": "https://github.com/rrahul963/serverless-associate-request-validator#readme"
+}
